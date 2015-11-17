@@ -1,0 +1,11 @@
+<html>
+
+<head>
+<title>Titulo de la pagina</title>
+</head>
+
+<body>
+CUERPO DE LA PAGINA
+</body>
+
+</html>
